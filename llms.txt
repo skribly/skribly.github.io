@@ -1,0 +1,52 @@
+# Skribly
+
+> Skribly is a non-commercial ecosystem of developer tools: an issue tracker, a desktop environment for AI agents and a library of agent skills.
+
+Skribly is a non-commercial project by Dawid Olko, Piotr Smoła, Michał Pilecki, Konrad Pluta and Mateusz Olko. The repositories are private for now. Every page is also available in Polish under /pl/.
+
+## Apps
+
+- [Apps](https://skribly.pl/apps/): Skribly Agent, Skribly Tracker and agent-skills: what each app does and how they work together.
+- [Download](https://agent.skribly.pl/download/): Download Skribly Agent for macOS, Windows and Linux. Installers update on their own, and each release lists SHA-256 checksums.
+- [Skribly Agent](https://skribly.pl/apps/skribly-agent/): A desktop environment for AI coding agents on macOS, Windows and Linux: tasks, Git worktrees, pipelines and audits.
+- [Skribly Tracker](https://skribly.pl/apps/skribly-tracker/): An issue tracker in the browser with Kanban boards, time logs and a REST API that agents can use.
+- [agent-skills](https://skribly.pl/apps/agent-skills/): 39 portable skills with one installer for seven AI coding agents, from a tracker ticket to a reviewed, tested commit.
+
+## Product
+
+- [Features](https://skribly.pl/features/): Everything in Skribly Agent, Skribly Tracker and agent-skills, grouped by job: running agents, tasks, review, audits and more.
+- [Integrations](https://skribly.pl/integrations/): Support tables for 13 AI coding agents, six issue trackers, Git hosts, editors, MCP servers and audit tools.
+- [Skills catalogue](https://skribly.pl/skills/): All 39 agent skills with a description and category each: workflow, tests, performance, security, docs and more.
+- [Agents or terminals](https://skribly.pl/compare/): What Skribly Agent adds to plain terminals and multiplexers like tmux, and when a multiplexer is the better fit.
+- [Changelog](https://skribly.pl/changelog/): What changed in Skribly Agent, Skribly Tracker and agent-skills, rewritten in plain words from the GitHub release notes.
+- [Roadmap](https://skribly.pl/roadmap/): What is finished in Skribly, what comes next and what is still missing, taken from the project's own documentation.
+
+## Documentation
+
+The documentation lives at https://docs.skribly.pl. Start from its own index and read the set of the product you need; nothing is repeated here.
+
+- [Documentation index for language models](https://docs.skribly.pl/llms.txt)
+- [Skribly Agent documentation set](https://docs.skribly.pl/_llms-txt/agent.txt)
+- [agent-skills documentation set](https://docs.skribly.pl/_llms-txt/skills.txt)
+- [Skribly Tracker documentation set](https://docs.skribly.pl/_llms-txt/tracker.txt)
+- [Core documentation set](https://docs.skribly.pl/_llms-txt/core.txt)
+- [UI documentation set](https://docs.skribly.pl/_llms-txt/ui.txt)
+
+## About
+
+- [About](https://skribly.pl/about/): What Skribly is, how it started, who it is for and what we care about when we build tools for AI coding agents.
+- [Authors](https://skribly.pl/authors/): Skribly is built by Dawid Olko, Piotr Smoła, Michał Pilecki, Konrad Pluta and Mateusz Olko, developers from Rzeszów, Poland.
+- [Status](https://skribly.pl/status/): Current versions of the Skribly apps, what works today and what comes next.
+- [Contact](https://skribly.pl/contact/): How to reach the authors of Skribly about the project, privacy, accessibility or security, in English or Polish.
+
+## Support
+
+- [FAQ](https://skribly.pl/faq/): Answers about Skribly: availability, supported agents, trackers, privacy and how decisions stay with you.
+- [Help](https://skribly.pl/help/): How to get started with Skribly, what you need, how to solve common problems, and a short glossary.
+
+## Optional
+
+- [Privacy policy](https://skribly.pl/privacy/): What this site stores, what it does not, and how to contact us about your data.
+- [Accessibility statement](https://skribly.pl/accessibility/): How this site is built and tested for accessibility, and how to report a problem.
+- [Security](https://skribly.pl/security/): How to report a security problem in Skribly, and how this website and the Skribly apps protect you and your work.
+- [Licences](https://skribly.pl/licenses/): The open source software and fonts that the Skribly website ships, each with its licence, its repository and its licence text.

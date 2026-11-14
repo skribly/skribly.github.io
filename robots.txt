@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /403/
+Disallow: /503/
+Disallow: /500.html
+
+Sitemap: https://skribly.pl/sitemap.xml
